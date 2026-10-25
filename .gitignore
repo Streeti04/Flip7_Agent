@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+*.egg-info/
+
+# Test and lint caches
+.pytest_cache/
+.ruff_cache/
+
+# Local editor and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Generated runtime data
+
+games/
